@@ -22,12 +22,7 @@
 git clone https://github.com/Raykosan/ComfyUI_RaykoStudio.git  
 
 ```
-Restart ComfyUI  
-
 - Copy RaykoStudio_Nodes folder to: ComfyUI/custom_nodes/  
-
-Restart ComfyUI
-
 - You can install this node using the ComfyUI_Manager  
 
 ## 🎛 Usage  
