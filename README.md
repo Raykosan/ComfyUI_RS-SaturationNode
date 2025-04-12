@@ -22,7 +22,7 @@
 git clone https://github.com/Raykosan/ComfyUI_RS-SaturationNode.git  
 
 ```
-- Copy RaykoStudio_Nodes folder to: ComfyUI/custom_nodes/  
+- Copy ComfyUI_RS-SaturationNode folder to: ComfyUI/custom_nodes/  
 - You can install this node using the ComfyUI_Manager  
 
 ## 🎛 Usage  
