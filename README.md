@@ -19,7 +19,7 @@
 
 - Clone repository to `ComfyUI/custom_nodes/` folder:  
 ```
-git clone https://github.com/Raykosan/RaykoStudio-SaturationNode.git  
+git clone https://github.com/Raykosan/ComfyUI_RS-SaturationNode.git  
 
 ```
 - Copy RaykoStudio_Nodes folder to: ComfyUI/custom_nodes/  
