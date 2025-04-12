@@ -17,14 +17,18 @@
 
 ## 🛠 Installation  
 
-1. Clone the repo to `ComfyUI/custom_nodes/`:  
-git clone [https://github.com/Raykosan/RaykoStudio-SaturationNode.git](https://github.com/Raykosan/ComfyUI_RS-SaturationNode)  
-Restart ComfyUI.
+- Clone repository to `ComfyUI/custom_nodes/` folder:  
+```
+git clone https://github.com/Raykosan/ComfyUI_RaykoStudio.git  
 
-2. Copy the RaykoStudio_Nodes folder to: ComfyUI/custom_nodes/  
+```
+Restart ComfyUI  
+
+- Copy RaykoStudio_Nodes folder to: ComfyUI/custom_nodes/  
+
 Restart ComfyUI
 
-3. You can install this node using the ComfyUI_Manager  
+- You can install this node using the ComfyUI_Manager  
 
 ## 🎛 Usage  
 
